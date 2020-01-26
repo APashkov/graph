@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="170">
+            <LineStyle id="171">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="174">
+            <LineStyle id="175">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="178">
+            <LineStyle id="179">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="182">
+            <LineStyle id="183">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="186">
+            <LineStyle id="187">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="190">
+            <LineStyle id="191">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="194">
+            <LineStyle id="195">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="198">
+            <LineStyle id="199">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="202">
+            <LineStyle id="203">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="206">
+            <LineStyle id="207">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="210">
+            <LineStyle id="211">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="214">
+            <LineStyle id="215">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="218">
+            <LineStyle id="219">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="222">
+            <LineStyle id="223">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="226">
+            <LineStyle id="227">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="230">
+            <LineStyle id="231">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="234">
+            <LineStyle id="235">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="238">
+            <LineStyle id="239">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="242">
+            <LineStyle id="243">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="246">
+            <LineStyle id="247">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="250">
+            <LineStyle id="251">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="254">
+            <LineStyle id="255">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="258">
+            <LineStyle id="259">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="262">
+            <LineStyle id="263">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="266">
+            <LineStyle id="267">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="270">
+            <LineStyle id="271">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="274">
+            <LineStyle id="275">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="278">
+            <LineStyle id="279">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="282">
+            <LineStyle id="283">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="286">
+            <LineStyle id="287">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="290">
+            <LineStyle id="291">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="294">
+            <LineStyle id="295">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="298">
+            <LineStyle id="299">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="302">
+            <LineStyle id="303">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="306">
+            <LineStyle id="307">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="310">
+            <LineStyle id="311">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="314">
+            <LineStyle id="315">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="318">
+            <LineStyle id="319">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="322">
+            <LineStyle id="323">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="326">
+            <LineStyle id="327">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="330">
+            <LineStyle id="331">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="334">
+            <LineStyle id="335">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="338">
+            <LineStyle id="339">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="342">
+            <LineStyle id="343">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="346">
+            <LineStyle id="347">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="350">
+            <LineStyle id="351">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="354">
+            <LineStyle id="355">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="358">
+            <LineStyle id="359">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="362">
+            <LineStyle id="363">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="366">
+            <LineStyle id="367">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="370">
+            <LineStyle id="371">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="374">
+            <LineStyle id="375">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="378">
+            <LineStyle id="379">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="382">
+            <LineStyle id="383">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="386">
+            <LineStyle id="387">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="390">
+            <LineStyle id="391">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="394">
+            <LineStyle id="395">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="398">
+            <LineStyle id="399">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="402">
+            <LineStyle id="403">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="406">
+            <LineStyle id="407">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="410">
+            <LineStyle id="411">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="414">
+            <LineStyle id="415">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="418">
+            <LineStyle id="419">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="422">
+            <LineStyle id="423">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="426">
+            <LineStyle id="427">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="430">
+            <LineStyle id="431">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="434">
+            <LineStyle id="435">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="438">
+            <LineStyle id="439">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="442">
+            <LineStyle id="443">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="446">
+            <LineStyle id="447">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="450">
+            <LineStyle id="451">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="454">
+            <LineStyle id="455">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="458">
+            <LineStyle id="459">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="462">
+            <LineStyle id="463">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="466">
+            <LineStyle id="467">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="470">
+            <LineStyle id="471">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="474">
+            <LineStyle id="475">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="478">
+            <LineStyle id="479">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="482">
+            <LineStyle id="483">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="486">
+            <LineStyle id="487">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="490">
+            <LineStyle id="491">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Абакан</name>
+            <Point id="2">
+                <coordinates>91.442423,53.720976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Архангельск</name>
+            <Point id="4">
+                <coordinates>40.518735,64.539304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Астана</name>
+            <Point id="6">
+                <coordinates>51.128422,71.430564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Астрахань</name>
+            <Point id="8">
+                <coordinates>48.033574,46.347869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Барнаул</name>
+            <Point id="10">
+                <coordinates>83.74962,53.356132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Белгород</name>
+            <Point id="12">
+                <coordinates>36.588849,50.597467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Бийск</name>
+            <Point id="14">
+                <coordinates>85.219686,52.541444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Благовещенск</name>
+            <Point id="16">
+                <coordinates>127.527173,50.290658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Братск</name>
+            <Point id="18">
+                <coordinates>101.634152,56.151382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Брянск</name>
+            <Point id="20">
+                <coordinates>34.364198,53.2434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Великий Новгород</name>
+            <Point id="22">
+                <coordinates>31.275475,58.521475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Владивосток</name>
+            <Point id="24">
+                <coordinates>131.928379,43.134019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Владикавказ</name>
+            <Point id="26">
+                <coordinates>44.690476,43.024122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Владимир</name>
+            <Point id="28">
+                <coordinates>40.40703,56.129042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Волгоград</name>
+            <Point id="30">
+                <coordinates>44.516939,48.707103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Вологда</name>
+            <Point id="32">
+                <coordinates>39.891568,59.220492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Воронеж</name>
+            <Point id="34">
+                <coordinates>39.200287,51.661535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Грозный</name>
+            <Point id="36">
+                <coordinates>45.698197,43.317992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Екатеринбург</name>
+            <Point id="38">
+                <coordinates>60.597295,56.838002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Иваново</name>
+            <Point id="40">
+                <coordinates>40.973921,57.000348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Ижевск</name>
+            <Point id="42">
+                <coordinates>53.211463,56.852775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Иркутск</name>
+            <Point id="44">
+                <coordinates>104.28066,52.286387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Казань</name>
+            <Point id="46">
+                <coordinates>49.106585,55.795793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Калининград</name>
+            <Point id="48">
+                <coordinates>20.51095,54.70649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Калуга</name>
+            <Point id="50">
+                <coordinates>36.252277,54.507014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Каменск-Уральский</name>
+            <Point id="52">
+                <coordinates>61.918905,56.414897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Кемерово</name>
+            <Point id="54">
+                <coordinates>86.087781,55.359594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Киров</name>
+            <Point id="56">
+                <coordinates>34.323163,54.079033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Комсомольск-на-Амуре</name>
+            <Point id="58">
+                <coordinates>137.007867,50.54986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Королев</name>
+            <Point id="60">
+                <coordinates>37.854467,55.916229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Кострома</name>
+            <Point id="62">
+                <coordinates>40.926418,57.767683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Краснодар</name>
+            <Point id="64">
+                <coordinates>38.970157,45.023877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Красноярск</name>
+            <Point id="66">
+                <coordinates>92.870529,56.008691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Курск</name>
+            <Point id="68">
+                <coordinates>36.192647,51.730361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Липецк</name>
+            <Point id="70">
+                <coordinates>39.594719,52.61022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Магнитогорск</name>
+            <Point id="72">
+                <coordinates>58.984415,53.411677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Махачкала</name>
+            <Point id="74">
+                <coordinates>47.504646,42.984913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Москва</name>
+            <Point id="76">
+                <coordinates>37.617761,55.755773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Мурманск</name>
+            <Point id="78">
+                <coordinates>33.07454,68.969563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Набережные Челны</name>
+            <Point id="80">
+                <coordinates>52.39582,55.743553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Нижний Новгород</name>
+            <Point id="82">
+                <coordinates>44.002267,56.323902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Нижний Тагил</name>
+            <Point id="84">
+                <coordinates>59.98132,57.910144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Новокузнецк</name>
+            <Point id="86">
+                <coordinates>87.155205,53.786502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Новороссийск</name>
+            <Point id="88">
+                <coordinates>37.76866,44.723489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Новосибирск</name>
+            <Point id="90">
+                <coordinates>82.906928,55.028739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Норильск</name>
+            <Point id="92">
+                <coordinates>88.201014,69.349039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Омск</name>
+            <Point id="94">
+                <coordinates>73.368212,54.989342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Орел</name>
+            <Point id="96">
+                <coordinates>36.063514,52.970306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Оренбург</name>
+            <Point id="98">
+                <coordinates>55.097449,51.76806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Пенза</name>
+            <Point id="100">
+                <coordinates>45.019529,53.194546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Первоуральск</name>
+            <Point id="102">
+                <coordinates>59.942935,56.908099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Пермь</name>
+            <Point id="104">
+                <coordinates>56.237654,58.004785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Прокопьевск</name>
+            <Point id="106">
+                <coordinates>86.744657,53.895355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Псков</name>
+            <Point id="108">
+                <coordinates>28.331786,57.819365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Ростов-на-Дону</name>
+            <Point id="110">
+                <coordinates>39.744972,47.227151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Рыбинск</name>
+            <Point id="112">
+                <coordinates>38.573586,58.13853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Рязань</name>
+            <Point id="114">
+                <coordinates>39.744954,54.619886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Самара</name>
+            <Point id="116">
+                <coordinates>50.101801,53.195533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Санкт-Петербург</name>
+            <Point id="118">
+                <coordinates>30.314278,59.938806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Саратов</name>
+            <Point id="120">
+                <coordinates>46.03582,51.531528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Севастополь</name>
+            <Point id="122">
+                <coordinates>33.52536,44.616649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Северодвинск</name>
+            <Point id="124">
+                <coordinates>39.82962,64.558186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Северодвинск</name>
+            <Point id="126">
+                <coordinates>39.82962,64.558186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Симферополь</name>
+            <Point id="128">
+                <coordinates>34.102411,44.952116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Сочи</name>
+            <Point id="130">
+                <coordinates>39.722882,43.581509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Ставрополь</name>
+            <Point id="132">
+                <coordinates>41.969065,45.044502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Тамбов</name>
+            <Point id="134">
+                <coordinates>41.452238,52.721246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Тверь</name>
+            <Point id="136">
+                <coordinates>35.911896,56.859611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Тольятти</name>
+            <Point id="138">
+                <coordinates>49.418084,53.511311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Томск</name>
+            <Point id="140">
+                <coordinates>84.972128,56.495116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Тула</name>
+            <Point id="142">
+                <coordinates>37.617752,54.193033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Тюмень</name>
+            <Point id="144">
+                <coordinates>65.534328,57.153033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Улан-Удэ</name>
+            <Point id="146">
+                <coordinates>107.584125,51.833507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Ульяновск</name>
+            <Point id="148">
+                <coordinates>48.402243,54.317002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Уфа</name>
+            <Point id="150">
+                <coordinates>55.957838,54.734768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Хабаровск</name>
+            <Point id="152">
+                <coordinates>135.057732,48.472584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Чебоксары</name>
+            <Point id="154">
+                <coordinates>47.248887,56.1439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Челябинск</name>
+            <Point id="156">
+                <coordinates>61.402455,55.159774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Шахты</name>
+            <Point id="158">
+                <coordinates>40.215958,47.708485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Энгельс</name>
+            <Point id="160">
+                <coordinates>46.125121,51.498891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Южно-Сахалинск</name>
+            <Point id="162">
+                <coordinates>142.738068,46.959118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Якутск</name>
+            <Point id="164">
+                <coordinates>129.704151,62.027833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Ярославль</name>
+            <Point id="166">
+                <coordinates>39.893822,57.626569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Саратов - Энгельс</name>
+            <description>Саратов - Энгельс, distance: 7.1664793188516445</description>
+            <styleUrl>#170</styleUrl>
+            <LineString id="168">
+                <coordinates>46.03582,51.531528,0.0 46.125121,51.498891,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="173">
+            <name>Королев - Москва</name>
+            <description>Королев - Москва, distance: 23.16968942885343</description>
+            <styleUrl>#174</styleUrl>
+            <LineString id="172">
+                <coordinates>37.854467,55.916229,0.0 37.617761,55.755773,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="177">
+            <name>Новокузнецк - Прокопьевск</name>
+            <description>Новокузнецк - Прокопьевск, distance: 29.53084043248355</description>
+            <styleUrl>#178</styleUrl>
+            <LineString id="176">
+                <coordinates>87.155205,53.786502,0.0 86.744657,53.895355,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="181">
+            <name>Архангельск - Северодвинск</name>
+            <description>Архангельск - Северодвинск, distance: 32.997321636420715</description>
+            <styleUrl>#182</styleUrl>
+            <LineString id="180">
+                <coordinates>40.518735,64.539304,0.0 39.82962,64.558186,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="185">
+            <name>Екатеринбург - Первоуральск</name>
+            <description>Екатеринбург - Первоуральск, distance: 40.52176107161563</description>
+            <styleUrl>#186</styleUrl>
+            <LineString id="184">
+                <coordinates>60.597295,56.838002,0.0 59.942935,56.908099,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="189">
+            <name>Самара - Тольятти</name>
+            <description>Самара - Тольятти, distance: 57.37819695702135</description>
+            <styleUrl>#190</styleUrl>
+            <LineString id="188">
+                <coordinates>50.101801,53.195533,0.0 49.418084,53.511311,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="193">
+            <name>Севастополь - Симферополь</name>
+            <description>Севастополь - Симферополь, distance: 58.87044351596645</description>
+            <styleUrl>#194</styleUrl>
+            <LineString id="192">
+                <coordinates>33.52536,44.616649,0.0 34.102411,44.952116,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="197">
+            <name>Кострома - Ярославль</name>
+            <description>Кострома - Ярославль, distance: 63.33484855924844</description>
+            <styleUrl>#198</styleUrl>
+            <LineString id="196">
+                <coordinates>40.926418,57.767683,0.0 39.893822,57.626569,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="201">
+            <name>Ростов-на-Дону - Шахты</name>
+            <description>Ростов-на-Дону - Шахты, distance: 64.17330745725157</description>
+            <styleUrl>#202</styleUrl>
+            <LineString id="200">
+                <coordinates>39.744972,47.227151,0.0 40.215958,47.708485,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="205">
+            <name>Иваново - Кострома</name>
+            <description>Иваново - Кострома, distance: 85.37405448669459</description>
+            <styleUrl>#206</styleUrl>
+            <LineString id="204">
+                <coordinates>40.973921,57.000348,0.0 40.926418,57.767683,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="209">
+            <name>Владикавказ - Грозный</name>
+            <description>Владикавказ - Грозный, distance: 88.01517429085695</description>
+            <styleUrl>#210</styleUrl>
+            <LineString id="208">
+                <coordinates>44.690476,43.024122,0.0 45.698197,43.317992,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="213">
+            <name>Брянск - Киров</name>
+            <description>Брянск - Киров, distance: 92.96053917255178</description>
+            <styleUrl>#214</styleUrl>
+            <LineString id="212">
+                <coordinates>34.364198,53.2434,0.0 34.323163,54.079033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="217">
+            <name>Екатеринбург - Каменск-Уральский</name>
+            <description>Екатеринбург - Каменск-Уральский, distance: 93.53435149330882</description>
+            <styleUrl>#218</styleUrl>
+            <LineString id="216">
+                <coordinates>60.597295,56.838002,0.0 61.918905,56.414897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="221">
+            <name>Калуга - Тула</name>
+            <description>Калуга - Тула, distance: 95.13289586180693</description>
+            <styleUrl>#222</styleUrl>
+            <LineString id="220">
+                <coordinates>36.252277,54.507014,0.0 37.617752,54.193033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="225">
+            <name>Рыбинск - Ярославль</name>
+            <description>Рыбинск - Ярославль, distance: 96.60469005580337</description>
+            <styleUrl>#226</styleUrl>
+            <LineString id="224">
+                <coordinates>38.573586,58.13853,0.0 39.893822,57.626569,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="229">
+            <name>Краснодар - Новороссийск</name>
+            <description>Краснодар - Новороссийск, distance: 100.39904376060647</description>
+            <styleUrl>#230</styleUrl>
+            <LineString id="228">
+                <coordinates>38.970157,45.023877,0.0 37.76866,44.723489,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="233">
+            <name>Владимир - Иваново</name>
+            <description>Владимир - Иваново, distance: 102.92472706902328</description>
+            <styleUrl>#234</styleUrl>
+            <LineString id="232">
+                <coordinates>40.40703,56.129042,0.0 40.973921,57.000348,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="237">
+            <name>Воронеж - Липецк</name>
+            <description>Воронеж - Липецк, distance: 108.87284442021094</description>
+            <styleUrl>#238</styleUrl>
+            <LineString id="236">
+                <coordinates>39.200287,51.661535,0.0 39.594719,52.61022,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="241">
+            <name>Нижний Тагил - Первоуральск</name>
+            <description>Нижний Тагил - Первоуральск, distance: 111.44970442306492</description>
+            <styleUrl>#242</styleUrl>
+            <LineString id="240">
+                <coordinates>59.98132,57.910144,0.0 59.942935,56.908099,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="245">
+            <name>Тольятти - Ульяновск</name>
+            <description>Тольятти - Ульяновск, distance: 111.59197528955772</description>
+            <styleUrl>#246</styleUrl>
+            <LineString id="244">
+                <coordinates>49.418084,53.511311,0.0 48.402243,54.317002,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="249">
+            <name>Брянск - Орел</name>
+            <description>Брянск - Орел, distance: 117.42945368772536</description>
+            <styleUrl>#250</styleUrl>
+            <LineString id="248">
+                <coordinates>34.364198,53.2434,0.0 36.063514,52.970306,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="253">
+            <name>Казань - Чебоксары</name>
+            <description>Казань - Чебоксары, distance: 121.90845114150726</description>
+            <styleUrl>#254</styleUrl>
+            <LineString id="252">
+                <coordinates>49.106585,55.795793,0.0 47.248887,56.1439,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="257">
+            <name>Липецк - Тамбов</name>
+            <description>Липецк - Тамбов, distance: 125.87061449835845</description>
+            <styleUrl>#258</styleUrl>
+            <LineString id="256">
+                <coordinates>39.594719,52.61022,0.0 41.452238,52.721246,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="261">
+            <name>Белгород - Курск</name>
+            <description>Белгород - Курск, distance: 128.96964847870254</description>
+            <styleUrl>#262</styleUrl>
+            <LineString id="260">
+                <coordinates>36.588849,50.597467,0.0 36.192647,51.730361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="265">
+            <name>Ижевск - Набережные Челны</name>
+            <description>Ижевск - Набережные Челны, distance: 133.21327666959468</description>
+            <styleUrl>#266</styleUrl>
+            <LineString id="264">
+                <coordinates>53.211463,56.852775,0.0 52.39582,55.743553,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="269">
+            <name>Барнаул - Бийск</name>
+            <description>Барнаул - Бийск, distance: 133.81638251404365</description>
+            <styleUrl>#270</styleUrl>
+            <LineString id="268">
+                <coordinates>83.74962,53.356132,0.0 85.219686,52.541444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="273">
+            <name>Калуга - Киров</name>
+            <description>Калуга - Киров, distance: 133.9339874205908</description>
+            <styleUrl>#274</styleUrl>
+            <LineString id="272">
+                <coordinates>36.252277,54.507014,0.0 34.323163,54.079033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="277">
+            <name>Курск - Орел</name>
+            <description>Курск - Орел, distance: 138.15877791527936</description>
+            <styleUrl>#278</styleUrl>
+            <LineString id="276">
+                <coordinates>36.192647,51.730361,0.0 36.063514,52.970306,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="281">
+            <name>Вологда - Рыбинск</name>
+            <description>Вологда - Рыбинск, distance: 142.39883637250753</description>
+            <styleUrl>#282</styleUrl>
+            <LineString id="280">
+                <coordinates>39.891568,59.220492,0.0 38.573586,58.13853,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="285">
+            <name>Каменск-Уральский - Челябинск</name>
+            <description>Каменск-Уральский - Челябинск, distance: 143.25339674370653</description>
+            <styleUrl>#286</styleUrl>
+            <LineString id="284">
+                <coordinates>61.918905,56.414897,0.0 61.402455,55.159774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="289">
+            <name>Кемерово - Томск</name>
+            <description>Кемерово - Томск, distance: 144.12885676861134</description>
+            <styleUrl>#290</styleUrl>
+            <LineString id="288">
+                <coordinates>86.087781,55.359594,0.0 84.972128,56.495116,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="293">
+            <name>Рязань - Тула</name>
+            <description>Рязань - Тула, distance: 145.62029645082688</description>
+            <styleUrl>#294</styleUrl>
+            <LineString id="292">
+                <coordinates>39.744954,54.619886,0.0 37.617752,54.193033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="297">
+            <name>Грозный - Махачкала</name>
+            <description>Грозный - Махачкала, distance: 151.15221591164746</description>
+            <styleUrl>#298</styleUrl>
+            <LineString id="296">
+                <coordinates>45.698197,43.317992,0.0 47.504646,42.984913,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="301">
+            <name>Королев - Тверь</name>
+            <description>Королев - Тверь, distance: 159.0588047307304</description>
+            <styleUrl>#302</styleUrl>
+            <LineString id="300">
+                <coordinates>37.854467,55.916229,0.0 35.911896,56.859611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="305">
+            <name>Владимир - Королев</name>
+            <description>Владимир - Королев, distance: 160.37495552931273</description>
+            <styleUrl>#306</styleUrl>
+            <LineString id="304">
+                <coordinates>40.40703,56.129042,0.0 37.854467,55.916229,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="309">
+            <name>Калуга - Москва</name>
+            <description>Калуга - Москва, distance: 163.75323934722243</description>
+            <styleUrl>#310</styleUrl>
+            <LineString id="308">
+                <coordinates>36.252277,54.507014,0.0 37.617761,55.755773,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="313">
+            <name>Великий Новгород - Санкт-Петербург</name>
+            <description>Великий Новгород - Санкт-Петербург, distance: 166.8169461827578</description>
+            <styleUrl>#314</styleUrl>
+            <LineString id="312">
+                <coordinates>31.275475,58.521475,0.0 30.314278,59.938806,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="317">
+            <name>Кемерово - Прокопьевск</name>
+            <description>Кемерово - Прокопьевск, distance: 168.22024575279465</description>
+            <styleUrl>#318</styleUrl>
+            <LineString id="316">
+                <coordinates>86.087781,55.359594,0.0 86.744657,53.895355,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="321">
+            <name>Казань - Ульяновск</name>
+            <description>Казань - Ульяновск, distance: 170.44641592123335</description>
+            <styleUrl>#322</styleUrl>
+            <LineString id="320">
+                <coordinates>49.106585,55.795793,0.0 48.402243,54.317002,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="325">
+            <name>Краснодар - Сочи</name>
+            <description>Краснодар - Сочи, distance: 171.20816078185157</description>
+            <styleUrl>#326</styleUrl>
+            <LineString id="324">
+                <coordinates>38.970157,45.023877,0.0 39.722882,43.581509,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="329">
+            <name>Бийск - Прокопьевск</name>
+            <description>Бийск - Прокопьевск, distance: 181.58258852684403</description>
+            <styleUrl>#330</styleUrl>
+            <LineString id="328">
+                <coordinates>85.219686,52.541444,0.0 86.744657,53.895355,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="333">
+            <name>Великий Новгород - Псков</name>
+            <description>Великий Новгород - Псков, distance: 189.4466898825617</description>
+            <styleUrl>#334</styleUrl>
+            <LineString id="332">
+                <coordinates>31.275475,58.521475,0.0 28.331786,57.819365,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="337">
+            <name>Барнаул - Новосибирск</name>
+            <description>Барнаул - Новосибирск, distance: 193.89962484770126</description>
+            <styleUrl>#338</styleUrl>
+            <LineString id="336">
+                <coordinates>83.74962,53.356132,0.0 82.906928,55.028739,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="341">
+            <name>Пенза - Саратов</name>
+            <description>Пенза - Саратов, distance: 197.37699459106338</description>
+            <styleUrl>#342</styleUrl>
+            <LineString id="340">
+                <coordinates>45.019529,53.194546,0.0 46.03582,51.531528,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="345">
+            <name>Иваново - Нижний Новгород</name>
+            <description>Иваново - Нижний Новгород, distance: 199.7487412094319</description>
+            <styleUrl>#346</styleUrl>
+            <LineString id="344">
+                <coordinates>40.973921,57.000348,0.0 44.002267,56.323902,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="349">
+            <name>Нижний Новгород - Чебоксары</name>
+            <description>Нижний Новгород - Чебоксары, distance: 201.6328205500157</description>
+            <styleUrl>#350</styleUrl>
+            <LineString id="348">
+                <coordinates>44.002267,56.323902,0.0 47.248887,56.1439,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="353">
+            <name>Казань - Набережные Челны</name>
+            <description>Казань - Набережные Челны, distance: 205.8093821726014</description>
+            <styleUrl>#354</styleUrl>
+            <LineString id="352">
+                <coordinates>49.106585,55.795793,0.0 52.39582,55.743553,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="357">
+            <name>Воронеж - Курск</name>
+            <description>Воронеж - Курск, distance: 207.42727459425706</description>
+            <styleUrl>#358</styleUrl>
+            <LineString id="356">
+                <coordinates>39.200287,51.661535,0.0 36.192647,51.730361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="361">
+            <name>Нижний Тагил - Пермь</name>
+            <description>Нижний Тагил - Пермь, distance: 221.08449310564308</description>
+            <styleUrl>#362</styleUrl>
+            <LineString id="360">
+                <coordinates>59.98132,57.910144,0.0 56.237654,58.004785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="365">
+            <name>Ижевск - Пермь</name>
+            <description>Ижевск - Пермь, distance: 221.84181745578576</description>
+            <styleUrl>#366</styleUrl>
+            <LineString id="364">
+                <coordinates>53.211463,56.852775,0.0 56.237654,58.004785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="369">
+            <name>Иркутск - Улан-Удэ</name>
+            <description>Иркутск - Улан-Удэ, distance: 231.37843908098614</description>
+            <styleUrl>#370</styleUrl>
+            <LineString id="368">
+                <coordinates>104.28066,52.286387,0.0 107.584125,51.833507,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="373">
+            <name>Каменск-Уральский - Тюмень</name>
+            <description>Каменск-Уральский - Тюмень, distance: 234.9938688454101</description>
+            <styleUrl>#374</styleUrl>
+            <LineString id="372">
+                <coordinates>61.918905,56.414897,0.0 65.534328,57.153033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="377">
+            <name>Краснодар - Ставрополь</name>
+            <description>Краснодар - Ставрополь, distance: 235.65890983808774</description>
+            <styleUrl>#378</styleUrl>
+            <LineString id="376">
+                <coordinates>38.970157,45.023877,0.0 41.969065,45.044502,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="381">
+            <name>Пенза - Тамбов</name>
+            <description>Пенза - Тамбов, distance: 244.6584053813026</description>
+            <styleUrl>#382</styleUrl>
+            <LineString id="380">
+                <coordinates>45.019529,53.194546,0.0 41.452238,52.721246,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="385">
+            <name>Магнитогорск - Уфа</name>
+            <description>Магнитогорск - Уфа, distance: 246.21838023325714</description>
+            <styleUrl>#386</styleUrl>
+            <LineString id="384">
+                <coordinates>58.984415,53.411677,0.0 55.957838,54.734768,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="389">
+            <name>Магнитогорск - Челябинск</name>
+            <description>Магнитогорск - Челябинск, distance: 249.81281899787137</description>
+            <styleUrl>#390</styleUrl>
+            <LineString id="388">
+                <coordinates>58.984415,53.411677,0.0 61.402455,55.159774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="393">
+            <name>Краснодар - Ростов-на-Дону</name>
+            <description>Краснодар - Ростов-на-Дону, distance: 252.16943642964716</description>
+            <styleUrl>#394</styleUrl>
+            <LineString id="392">
+                <coordinates>38.970157,45.023877,0.0 39.744972,47.227151,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="397">
+            <name>Абакан - Красноярск</name>
+            <description>Абакан - Красноярск, distance: 270.29444880549534</description>
+            <styleUrl>#398</styleUrl>
+            <LineString id="396">
+                <coordinates>91.442423,53.720976,0.0 92.870529,56.008691,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="401">
+            <name>Комсомольск-на-Амуре - Хабаровск</name>
+            <description>Комсомольск-на-Амуре - Хабаровск, distance: 270.49849765806573</description>
+            <styleUrl>#402</styleUrl>
+            <LineString id="400">
+                <coordinates>137.007867,50.54986,0.0 135.057732,48.472584,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="405">
+            <name>Абакан - Новокузнецк</name>
+            <description>Абакан - Новокузнецк, distance: 281.9227975114931</description>
+            <styleUrl>#406</styleUrl>
+            <LineString id="404">
+                <coordinates>91.442423,53.720976,0.0 87.155205,53.786502,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="409">
+            <name>Новороссийск - Симферополь</name>
+            <description>Новороссийск - Симферополь, distance: 290.1799567251882</description>
+            <styleUrl>#410</styleUrl>
+            <LineString id="408">
+                <coordinates>37.76866,44.723489,0.0 34.102411,44.952116,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="413">
+            <name>Владикавказ - Ставрополь</name>
+            <description>Владикавказ - Ставрополь, distance: 312.70181097737265</description>
+            <styleUrl>#414</styleUrl>
+            <LineString id="412">
+                <coordinates>44.690476,43.024122,0.0 41.969065,45.044502,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="417">
+            <name>Магнитогорск - Оренбург</name>
+            <description>Магнитогорск - Оренбург, distance: 319.85732288651013</description>
+            <styleUrl>#418</styleUrl>
+            <LineString id="416">
+                <coordinates>58.984415,53.411677,0.0 55.097449,51.76806,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="421">
+            <name>Волгоград - Энгельс</name>
+            <description>Волгоград - Энгельс, distance: 330.9335067810839</description>
+            <styleUrl>#422</styleUrl>
+            <LineString id="420">
+                <coordinates>44.516939,48.707103,0.0 46.125121,51.498891,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="425">
+            <name>Великий Новгород - Тверь</name>
+            <description>Великий Новгород - Тверь, distance: 331.678826999877</description>
+            <styleUrl>#426</styleUrl>
+            <LineString id="424">
+                <coordinates>31.275475,58.521475,0.0 35.911896,56.859611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="429">
+            <name>Волгоград - Шахты</name>
+            <description>Волгоград - Шахты, distance: 337.4620207668535</description>
+            <styleUrl>#430</styleUrl>
+            <LineString id="428">
+                <coordinates>44.516939,48.707103,0.0 40.215958,47.708485,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="433">
+            <name>Астрахань - Волгоград</name>
+            <description>Астрахань - Волгоград, distance: 372.1401524963694</description>
+            <styleUrl>#434</styleUrl>
+            <LineString id="432">
+                <coordinates>48.033574,46.347869,0.0 44.516939,48.707103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="437">
+            <name>Братск - Иркутск</name>
+            <description>Братск - Иркутск, distance: 462.8608629957255</description>
+            <styleUrl>#438</styleUrl>
+            <LineString id="436">
+                <coordinates>101.634152,56.151382,0.0 104.28066,52.286387,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="441">
+            <name>Омск - Тюмень</name>
+            <description>Омск - Тюмень, distance: 542.0652163673009</description>
+            <styleUrl>#442</styleUrl>
+            <LineString id="440">
+                <coordinates>73.368212,54.989342,0.0 65.534328,57.153033,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="445">
+            <name>Братск - Красноярск</name>
+            <description>Братск - Красноярск, distance: 543.6711179515737</description>
+            <styleUrl>#446</styleUrl>
+            <LineString id="444">
+                <coordinates>101.634152,56.151382,0.0 92.870529,56.008691,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="449">
+            <name>Мурманск - Северодвинск</name>
+            <description>Мурманск - Северодвинск, distance: 572.3764730210358</description>
+            <styleUrl>#450</styleUrl>
+            <LineString id="448">
+                <coordinates>33.07454,68.969563,0.0 39.82962,64.558186,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="453">
+            <name>Комсомольск-на-Амуре - Южно-Сахалинск</name>
+            <description>Комсомольск-на-Амуре - Южно-Сахалинск, distance: 579.2574137857612</description>
+            <styleUrl>#454</styleUrl>
+            <LineString id="452">
+                <coordinates>137.007867,50.54986,0.0 142.738068,46.959118,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="457">
+            <name>Благовещенск - Хабаровск</name>
+            <description>Благовещенск - Хабаровск, distance: 581.1122502132229</description>
+            <styleUrl>#458</styleUrl>
+            <LineString id="456">
+                <coordinates>127.527173,50.290658,0.0 135.057732,48.472584,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="461">
+            <name>Архангельск - Вологда</name>
+            <description>Архангельск - Вологда, distance: 592.3495415271707</description>
+            <styleUrl>#462</styleUrl>
+            <LineString id="460">
+                <coordinates>40.518735,64.539304,0.0 39.891568,59.220492,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="465">
+            <name>Калининград - Псков</name>
+            <description>Калининград - Псков, distance: 593.6419116571892</description>
+            <styleUrl>#466</styleUrl>
+            <LineString id="464">
+                <coordinates>20.51095,54.70649,0.0 28.331786,57.819365,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="469">
+            <name>Новосибирск - Омск</name>
+            <description>Новосибирск - Омск, distance: 607.7946505508359</description>
+            <styleUrl>#470</styleUrl>
+            <LineString id="468">
+                <coordinates>82.906928,55.028739,0.0 73.368212,54.989342,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="473">
+            <name>Владивосток - Хабаровск</name>
+            <description>Владивосток - Хабаровск, distance: 641.1487146943452</description>
+            <styleUrl>#474</styleUrl>
+            <LineString id="472">
+                <coordinates>131.928379,43.134019,0.0 135.057732,48.472584,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="477">
+            <name>Астана - Мурманск</name>
+            <description>Астана - Мурманск, distance: 729.5563816202922</description>
+            <styleUrl>#478</styleUrl>
+            <LineString id="476">
+                <coordinates>51.128422,71.430564,0.0 33.07454,68.969563,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="481">
+            <name>Благовещенск - Якутск</name>
+            <description>Благовещенск - Якутск, distance: 1311.914068638259</description>
+            <styleUrl>#482</styleUrl>
+            <LineString id="480">
+                <coordinates>127.527173,50.290658,0.0 129.704151,62.027833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="485">
+            <name>Астана - Норильск</name>
+            <description>Астана - Норильск, distance: 1379.8456178452095</description>
+            <styleUrl>#486</styleUrl>
+            <LineString id="484">
+                <coordinates>51.128422,71.430564,0.0 88.201014,69.349039,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="489">
+            <name>Благовещенск - Улан-Удэ</name>
+            <description>Благовещенск - Улан-Удэ, distance: 1399.7816937223442</description>
+            <styleUrl>#490</styleUrl>
+            <LineString id="488">
+                <coordinates>127.527173,50.290658,0.0 107.584125,51.833507,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
